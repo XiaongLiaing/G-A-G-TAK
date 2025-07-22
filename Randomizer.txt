@@ -94,7 +94,7 @@ progressText.Parent = bg
 
 -- Animation function
 local function animateLoading()
-    local duration = 13 -- Increased to 13 seconds (adjust this number to make it longer/shorter)
+    local duration = 8 -- Increased to 8 seconds (adjust this number to make it longer/shorter)
     local startTime = tick()
     
     while true do
